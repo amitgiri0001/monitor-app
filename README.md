@@ -7,7 +7,7 @@ The simplest ever monitor app that sticks in the corner of the screen and be vis
 # Run
   `npm start`
   
-# build
+# Build
   `npm run build`
   
   The build will create package according to the option provided. 
