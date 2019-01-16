@@ -1,4 +1,6 @@
 # monitor-app
+![alt text](https://github.com/amitgiri0001/monitor-app/blob/master/Screenshot.png)
+
 The simplest ever monitor app that sticks in the corner of the screen and be visible all the time for monitoring CPU, Memory and Network.
 
 # Installation
